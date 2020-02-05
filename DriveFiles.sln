@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.902
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveFiles", "DriveFiles\DriveFiles.csproj", "{FC27EB96-C329-4A35-997F-CD67F8D2FFB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveFiles", "DriveFiles.csproj", "{FC27EB96-C329-4A35-997F-CD67F8D2FFB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
